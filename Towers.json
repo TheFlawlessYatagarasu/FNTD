@@ -4,10 +4,10 @@
     "rarity": "Secret",
     "price": "Placeholder",
     "url": "https://your-site-url/archer-tower",
-    "description": "A tower that shoots arrows at enemies.",
-    "details": "Has a long range and high attack speed.",
-    "price": 100,
-    "image": "images/image_2024-06-27_232759121.png"
+    "description": "High damage and range sniper unit",
+    "details": "Very-High Damage, Very-High Range, Turtle-Slow Cooldown",
+    "price": 2500,
+    "image": "https://raw.githubusercontent.com/TheFlawlessYatagarasu/FNTD/main/image_2024-06-27_232759121.png"
   },
   {
     "name": "Mage Tower",
@@ -15,7 +15,7 @@
     "description": "A tower that casts spells to damage enemies.",
     "details": "Deals area damage and slows enemies.",
     "price": 150,
-    "image": "https://raw.githubusercontent.com/TheFlawlessYatagarasu/FNTD/main/images/image_2024-06-27_232759121.png"
+    "image": "https://raw.githubusercontent.com/TheFlawlessYatagarasu/FNTD/main/image_2024-06-27_232759121.png"
   }
   // Add more towers as needed
 ]

@@ -7,15 +7,10 @@
     "description": "High damage and range sniper unit",
     "details": "Very-High Damage, Very-High Range, Turtle-Slow Cooldown",
     "price": 2500,
-    "image": "https://raw.githubusercontent.com/TheFlawlessYatagarasu/FNTD/main/image_2024-06-27_232759121.png"
+    "image": "https://raw.githubusercontent.com/TheFlawlessYatagarasu/FNTD/main/images/PuppetSC.png"
   },
   {
-    "name": "Mage Tower",
-    "url": "https://your-site-url/mage-tower",
-    "description": "A tower that casts spells to damage enemies.",
-    "details": "Deals area damage and slows enemies.",
-    "price": 150,
-    "image": "https://raw.githubusercontent.com/TheFlawlessYatagarasu/FNTD/main/image_2024-06-27_232759121.png"
+  // Add more neighbour
   }
   // Add more towers as needed
 ]
